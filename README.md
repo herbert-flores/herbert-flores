@@ -27,7 +27,6 @@
 
 <br />
 <br />
-<br />
 
 [![Herbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=herbert-flores)](https://github.com/herbert-flores/github-readme-stats)
 
