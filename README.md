@@ -28,13 +28,8 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-
 [![Herbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=herbert-flores)](https://github.com/herbert-flores/github-readme-stats)
-
-</details>
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbert-flores)](https://github.com/herbert-flores/github-readme-stats)
 <br />
