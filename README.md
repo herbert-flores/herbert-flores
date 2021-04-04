@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @herbert-flores
-- 👀 I’m interested in Web/Software development
+- 👀 I’m interested in Web/Software development/Software Engineering/CyberSecurity
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with other content creator
 
