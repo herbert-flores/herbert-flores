@@ -5,11 +5,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="" />]
-[<img align="left" alt=" | LinkedIn" width="22px" src="" />]
-[<img align="left" alt=" | Instagram" width="22px" src="" />
+[<img align="left" alt="" width="22px" src="" />][website]
+[<img align="left" alt=" | LinkedIn" width="22px" src="" />][linkedin]
+[<img align="left" alt=" | Instagram" width="22px" src="" />][instagram]
 
-
+<br />
 <!---
 herbert-flores/herbert-flores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
