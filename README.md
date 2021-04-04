@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web/Software development
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with other content creator
-- 📫 How to reach me 
+
 
 <!---
 herbert-flores/herbert-flores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
